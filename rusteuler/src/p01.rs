@@ -5,5 +5,5 @@ pub fn solve() {
             answer += i;
         }
     }
-    println!("{}", answer);
+    println!("001, {}", answer);
 }
